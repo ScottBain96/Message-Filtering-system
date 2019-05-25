@@ -1,0 +1,151 @@
+C:\Users\Scott\source\repos\messageSystem\messageSystem\bin\Debug\messageSystem.exe.config
+C:\Users\Scott\source\repos\messageSystem\messageSystem\bin\Debug\messageSystem.exe
+C:\Users\Scott\source\repos\messageSystem\messageSystem\bin\Debug\messageSystem.pdb
+C:\Users\Scott\source\repos\messageSystem\messageSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Scott\source\repos\messageSystem\messageSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\messageSystem.csprojResolveAssemblyReference.cache
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\App.g.cs
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\messageSystem_MarkupCompile.cache
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\messageSystem_MarkupCompile.lref
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\MainWindow.baml
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\messageSystem.g.resources
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\messageSystem.Properties.Resources.resources
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\messageSystem.csproj.GenerateResource.Cache
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\messageSystem.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\messageSystem.exe
+C:\Users\Scott\source\repos\messageSystem\messageSystem\obj\Debug\messageSystem.pdb
+C:\Users\Scott\source\repos\messageSys\messageSystem\bin\Debug\messageSystem.exe.config
+C:\Users\Scott\source\repos\messageSys\messageSystem\bin\Debug\messageSystem.exe
+C:\Users\Scott\source\repos\messageSys\messageSystem\bin\Debug\messageSystem.pdb
+C:\Users\Scott\source\repos\messageSys\messageSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Scott\source\repos\messageSys\messageSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\messageSystem.csprojResolveAssemblyReference.cache
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\App.g.cs
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\messageSystem_MarkupCompile.cache
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\messageSystem_MarkupCompile.lref
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\MainWindow.baml
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\messageSystem.g.resources
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\messageSystem.Properties.Resources.resources
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\messageSystem.csproj.GenerateResource.Cache
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\messageSystem.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\messageSystem.exe
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\messageSystem.pdb
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\messageSystem.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\App.g.cs
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\messageSystem_MarkupCompile.cache
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\messageSystem_MarkupCompile.lref
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\messageSystem.exe
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\messageSystem.pdb
+C:\Users\Scott\Desktop\messageSys\messageSystem\bin\Debug\messageSystem.exe.config
+C:\Users\Scott\Desktop\messageSys\messageSystem\bin\Debug\messageSystem.exe
+C:\Users\Scott\Desktop\messageSys\messageSystem\bin\Debug\messageSystem.pdb
+C:\Users\Scott\Desktop\messageSys\messageSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Scott\Desktop\messageSys\messageSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\MainWindow.baml
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\messageSystem.g.resources
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\messageSystem.Properties.Resources.resources
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\messageSystem.csproj.GenerateResource.Cache
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\messageSystem.csproj.CoreCompileInputs.cache
+F:\messageSys\messageSystem\bin\Debug\messageSystem.exe.config
+F:\messageSys\messageSystem\bin\Debug\messageSystem.exe
+F:\messageSys\messageSystem\bin\Debug\messageSystem.pdb
+F:\messageSys\messageSystem\bin\Debug\Newtonsoft.Json.dll
+F:\messageSys\messageSystem\bin\Debug\Newtonsoft.Json.xml
+F:\messageSys\messageSystem\obj\Debug\messageSystem.csprojResolveAssemblyReference.cache
+F:\messageSys\messageSystem\obj\Debug\MainWindow.g.cs
+F:\messageSys\messageSystem\obj\Debug\App.g.cs
+F:\messageSys\messageSystem\obj\Debug\messageSystem_MarkupCompile.cache
+F:\messageSys\messageSystem\obj\Debug\messageSystem_MarkupCompile.lref
+F:\messageSys\messageSystem\obj\Debug\MainWindow.baml
+F:\messageSys\messageSystem\obj\Debug\messageSystem.g.resources
+F:\messageSys\messageSystem\obj\Debug\messageSystem.Properties.Resources.resources
+F:\messageSys\messageSystem\obj\Debug\messageSystem.csproj.GenerateResource.Cache
+F:\messageSys\messageSystem\obj\Debug\messageSystem.csproj.CoreCompileInputs.cache
+F:\messageSys\messageSystem\obj\Debug\messageSystem.exe
+F:\messageSys\messageSystem\obj\Debug\messageSystem.pdb
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\window2.g.cs
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\window2.baml
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\Login.g.cs
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\Login.baml
+G:\messageSys\messageSystem\bin\Debug\messageSystem.exe.config
+G:\messageSys\messageSystem\bin\Debug\messageSystem.exe
+G:\messageSys\messageSystem\bin\Debug\messageSystem.pdb
+G:\messageSys\messageSystem\bin\Debug\Newtonsoft.Json.dll
+G:\messageSys\messageSystem\bin\Debug\Newtonsoft.Json.xml
+G:\messageSys\messageSystem\obj\Debug\messageSystem.csprojResolveAssemblyReference.cache
+G:\messageSys\messageSystem\obj\Debug\Login.g.cs
+G:\messageSys\messageSystem\obj\Debug\MainWindow.g.cs
+G:\messageSys\messageSystem\obj\Debug\window2.g.cs
+G:\messageSys\messageSystem\obj\Debug\App.g.cs
+G:\messageSys\messageSystem\obj\Debug\messageSystem_MarkupCompile.cache
+G:\messageSys\messageSystem\obj\Debug\messageSystem_MarkupCompile.lref
+G:\messageSys\messageSystem\obj\Debug\Login.baml
+G:\messageSys\messageSystem\obj\Debug\MainWindow.baml
+G:\messageSys\messageSystem\obj\Debug\window2.baml
+G:\messageSys\messageSystem\obj\Debug\messageSystem.g.resources
+G:\messageSys\messageSystem\obj\Debug\messageSystem.Properties.Resources.resources
+G:\messageSys\messageSystem\obj\Debug\messageSystem.csproj.GenerateResource.Cache
+G:\messageSys\messageSystem\obj\Debug\messageSystem.csproj.CoreCompileInputs.cache
+G:\messageSys\messageSystem\obj\Debug\messageSystem.exe
+G:\messageSys\messageSystem\obj\Debug\messageSystem.pdb
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\Login.g.cs
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\window2.g.cs
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\Login.baml
+C:\Users\Scott\Desktop\messageSys\messageSystem\obj\Debug\window2.baml
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\WindowEmail.g.cs
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\WindowEmail.baml
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\SIRemails.g.cs
+C:\Users\Scott\source\repos\messageSys\messageSystem\obj\Debug\SIRemails.baml
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\bin\Debug\messageSystem.exe.config
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\bin\Debug\messageSystem.exe
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\bin\Debug\messageSystem.pdb
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\messageSystem.csprojResolveAssemblyReference.cache
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\Login.g.cs
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\SIRemails.g.cs
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\window2.g.cs
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\WindowEmail.g.cs
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\App.g.cs
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\messageSystem_MarkupCompile.cache
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\messageSystem_MarkupCompile.lref
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\Login.baml
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\MainWindow.baml
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\SIRemails.baml
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\window2.baml
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\WindowEmail.baml
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\messageSystem.g.resources
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\messageSystem.Properties.Resources.resources
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\messageSystem.csproj.GenerateResource.Cache
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\messageSystem.csproj.CoreCompileInputs.cache
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\messageSystem.exe
+C:\Users\Scott\OneDrive\Documents\messagesystem\messageSystem\obj\Debug\messageSystem.pdb
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\bin\Debug\messageSystem.exe.config
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\bin\Debug\messageSystem.exe
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\bin\Debug\messageSystem.pdb
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\messageSystem.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\Login.g.cs
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\SIRemails.g.cs
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\window2.g.cs
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\WindowEmail.g.cs
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\App.g.cs
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\messageSystem_MarkupCompile.cache
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\messageSystem_MarkupCompile.lref
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\Login.baml
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\MainWindow.baml
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\SIRemails.baml
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\window2.baml
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\WindowEmail.baml
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\messageSystem.g.resources
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\messageSystem.Properties.Resources.resources
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\messageSystem.csproj.GenerateResource.Cache
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\messageSystem.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\messageSystem.exe
+C:\Users\Scott\Desktop\messagesystem FINAL\messageSystem\obj\Debug\messageSystem.pdb

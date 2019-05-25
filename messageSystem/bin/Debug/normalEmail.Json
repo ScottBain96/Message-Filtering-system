@@ -1,0 +1,7 @@
+{
+  "header": "aEmail@gmail.com",
+  "body": "This is an email test. The url will be showed in quarantined list and will be replaced here\r\n<url quarantined>",
+  "type": "E670701426",
+  "subject": "email",
+  "quarantine": "https://www.google.com/gmail/\nhttps://www.google.com/gmail/\nhttps://www.google.com/gmail/"
+}
